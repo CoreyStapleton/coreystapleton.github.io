@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Corey Stapleton and am still learning about Information Security and anything I can about Technology in general.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently the Information Security Administrator in Public Sector with 7 years experience in IT. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:cstapleton.cs@gmail.com)
