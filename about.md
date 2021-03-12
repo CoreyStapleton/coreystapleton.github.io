@@ -8,7 +8,7 @@ My name is Corey Stapleton and am still learning about Information Security and 
 
 ### More Information
 
-Currently the Information Security Administrator in Public Sector with 7 years experience in IT. 
+Currently the Information Security Administrator in Public Sector with 7 years experience in IT.
 
 ### Contact me
 
