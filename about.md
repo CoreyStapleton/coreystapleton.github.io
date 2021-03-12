@@ -12,4 +12,4 @@ Currently the Information Security Administrator in Public Sector with 7 years e
 
 ### Contact me
 
-[email@domain.com](mailto:cstapleton.cs@gmail.com)
+[cstapleton.cs@gmail.com](mailto:cstapleton.cs@gmail.com)
